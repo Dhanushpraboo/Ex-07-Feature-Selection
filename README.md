@@ -146,3 +146,5 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 ![output](14.png)
 ![output](15.png)
 ![output](16.png)
+## RESULT
+The various feature selection techniques has been performed on a dataset and saved the data to a file.
